@@ -98,4 +98,4 @@ This will regenerate:
 
 ## AI use disclosure
 
-AI tools were used to help reframe code structure for clarity, debug Colab download issues, and polish repository documentation. Experiment design choices, interpretation of the results, and final written analysis were completed by the author.
+AI tools were used to help reframe code structure for clarity (eg. adding user friendly comments), debug Colab download issues, and polish repository documentation. Experiment design choices, interpretation of the results, and final written analysis were completed by the author.
